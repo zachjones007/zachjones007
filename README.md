@@ -1,1 +1,1 @@
-python, c++
+pinescript,thinkscript,python
